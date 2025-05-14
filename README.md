@@ -46,9 +46,9 @@
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/victoria-von)  
+- [LinkedIn](https://www.linkedin.com/in/victoria-ponkratov-9b0266132/)  
 - [My Resume](https://drive.google.com/file/d/your-resume-id/view)  
-- [QA Portfolio Website](https://your-portfolio-link.com)
+<!-- - [QA Portfolio Website](https://your-portfolio-link.com)-->
 
 ---
 
