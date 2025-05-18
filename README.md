@@ -10,8 +10,8 @@
 <h3 align="center" style="color:#ffffff;">The Almighty QA | Bug Slayer | Edge Case Hunter 🛡️</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victoria-von"><img src="https://img.shields.io/badge/LinkedIn-%231a1a2e?style=for-the-badge&logo=linkedin&logoColor=#ff4d88" /></a>
-  <a href="mailto:victoria.p@unicell.co.il"><img src="https://img.shields.io/badge/Email-%231a1a2e?style=for-the-badge&logo=gmail&logoColor=#ff4d88" /></a>
+  <a href="[https://www.linkedin.com/in/victoria-von](https://www.linkedin.com/in/victoria-ponkratov-9b0266132/)"><img src="https://img.shields.io/badge/LinkedIn-%231a1a2e?style=for-the-badge&logo=linkedin&logoColor=#ff4d88" /></a>
+  <a href="mailto:v8i8k8i8@gmail.com"><img src="https://img.shields.io/badge/Email-%231a1a2e?style=for-the-badge&logo=gmail&logoColor=#ff4d88" /></a>
   <a href="https://github.com/victoria-p"><img src="https://img.shields.io/badge/GitHub-%231a1a2e?style=for-the-badge&logo=github&logoColor=#ff4d88" /></a>
 </p>
 
@@ -31,8 +31,8 @@
 
 | QA Tools | Languages | Platforms |
 |----------|-----------|-----------|
-| Jira, TestRail, Postman | SQL, Python (learning) | GitHub, Git |
-| Selenium (beginner) | Markdown, HTML basics | Windows, Linux |
+| Jira, TestRail, Postman | SQL, Python(beginner), Java(beginner)  | GitHub, Git |
+| Selenium (beginner) |  HTML basics | Windows, Linux(beginner) |
 
 ---
 
