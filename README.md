@@ -32,7 +32,7 @@
 | QA Tools | Languages | Platforms |
 |----------|-----------|-----------|
 | Jira, TestRail, Postman | SQL, Python(beginner), Java(beginner)  | GitHub, Git |
-| Selenium (beginner) |  HTML basics | Windows, Linux(beginner) |
+| Selenium (Webdriver + IDE) (beginner) |  HTML basics | Windows, Linux(beginner) |
 
 ---
 
@@ -47,8 +47,8 @@
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/victoria-ponkratov-9b0266132/)  
-- [My Resume](https://drive.google.com/file/d/your-resume-id/view)  
-<!-- - [QA Portfolio Website](https://your-portfolio-link.com)-->
+<!--- [My Resume](https://drive.google.com/file/d/your-resume-id/view)  
+ - [QA Portfolio Website](https://your-portfolio-link.com)-->
 
 ---
 
